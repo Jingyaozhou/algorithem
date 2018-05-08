@@ -1,3 +1,4 @@
+# 在s1中匹配最的s2
 def patternmache(s1, s2):
     # 是否匹配完整标识符
     flag = -1
